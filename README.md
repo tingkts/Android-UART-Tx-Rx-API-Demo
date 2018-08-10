@@ -16,3 +16,7 @@ Project's toolchain version:
 tpv-smt32-uart-download-elf
 -------------
 Add CommandActivity.java to  implement USART protocol used in the STM32 bootloader.
+
+![](https://github.com/tingkts/android_uart_tx_rx_api_demo/blob/master/tpv-smt32-uart-download-elf/CommandActivity.png?raw=true)
+
+> 图为：CommandActivity UI
